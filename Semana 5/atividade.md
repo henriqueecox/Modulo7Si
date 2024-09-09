@@ -8,7 +8,7 @@ O documento refere-se a um Plano de Cutover específico para um projeto de imple
 - **Cronograma de Cutover**: Um cronograma detalhado com fases importantes, como a preparação do ambiente de produção, a migração de dados e a execução de processos chave antes e depois do Go Live.
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src=".\Semana 5\Captura de tela 2024-09-08 160533.png" alt="print 1" style="width: 80%; border: 1px solid #ccc;" />
+  <img src="..\Semana 5\Captura de tela 2024-09-08 160533.png" alt="print 1" style="width: 80%; border: 1px solid #ccc;" />
   <p style="font-style: italic;"></p>
 </div>
 
@@ -16,7 +16,7 @@ O documento refere-se a um Plano de Cutover específico para um projeto de imple
 - **Organização e Responsabilidades**: Claramente define os papéis e responsabilidades das equipes envolvidas, como o Gerente de Cutover, Equipe de Migração de Dados, Coordenadores de Site, e Usuários Chave.
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="Semana 5\Captura de tela 2024-09-08 160657.png" alt="print 2" style="width: 80%; border: 1px solid #ccc;" />
+  <img src="..\Semana 5\Captura de tela 2024-09-08 160657.png" alt="print 2" style="width: 80%; border: 1px solid #ccc;" />
   <p style="font-style: italic;"></p>
 </div>
 
@@ -24,7 +24,7 @@ O documento refere-se a um Plano de Cutover específico para um projeto de imple
 - **Plano de Contingência**: Preparação para lidar com problemas inesperados, incluindo restauração do sistema legado e pontos de decisão para avançar ou não com o Cutover.
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="Semana 5\Captura de tela 2024-09-08 160810.png" alt="print 3" style="width: 80%; border: 1px solid #ccc;" />
+  <img src="..\Semana 5\Captura de tela 2024-09-08 160810.png" alt="print 3" style="width: 80%; border: 1px solid #ccc;" />
   <p style="font-style: italic;"></p>
 </div>
 
